@@ -1,4 +1,9 @@
 # PracticeMarkdown
+<<<<<<< HEAD
+=======
+##lumimii這是我的帳號名稱!!!!!!!!!!!
+# PracticeMarkdown
+>>>>>>> 02d604e1a08a938306098f9a18af859b4e0965ec
 #自我介紹
 ##lumimii這是我的帳號名!!!!!!
 ##嗨咿👋我是呂巧筠 你們可以叫我咪咪. 
